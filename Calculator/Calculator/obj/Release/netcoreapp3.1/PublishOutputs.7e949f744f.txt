@@ -1,0 +1,5 @@
+C:\Users\Willow\Desktop\VProj\RBuilds\Calculator.exe
+C:\Users\Willow\Desktop\VProj\RBuilds\Calculator.dll
+C:\Users\Willow\Desktop\VProj\RBuilds\Calculator.deps.json
+C:\Users\Willow\Desktop\VProj\RBuilds\Calculator.runtimeconfig.json
+C:\Users\Willow\Desktop\VProj\RBuilds\Calculator.pdb

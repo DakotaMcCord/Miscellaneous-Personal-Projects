@@ -1,0 +1,13 @@
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\bin\Release\netcoreapp3.1\KeyLog.exe
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\bin\Release\netcoreapp3.1\KeyLog.deps.json
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\bin\Release\netcoreapp3.1\KeyLog.runtimeconfig.json
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\bin\Release\netcoreapp3.1\KeyLog.runtimeconfig.dev.json
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\bin\Release\netcoreapp3.1\KeyLog.dll
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\bin\Release\netcoreapp3.1\KeyLog.pdb
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\obj\Release\netcoreapp3.1\KeyLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\obj\Release\netcoreapp3.1\KeyLog.AssemblyInfoInputs.cache
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\obj\Release\netcoreapp3.1\KeyLog.AssemblyInfo.cs
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\obj\Release\netcoreapp3.1\KeyLog.csproj.CoreCompileInputs.cache
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\obj\Release\netcoreapp3.1\KeyLog.dll
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\obj\Release\netcoreapp3.1\KeyLog.pdb
+C:\Users\Willow\Desktop\VProj\Regular\KeyLog\KeyLog\obj\Release\netcoreapp3.1\KeyLog.genruntimeconfig.cache

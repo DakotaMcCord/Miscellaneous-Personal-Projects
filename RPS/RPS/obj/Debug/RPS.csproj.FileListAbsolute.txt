@@ -1,0 +1,7 @@
+c:\users\cave johnson\source\repos\RPS\RPS\bin\Debug\RPS.exe.config
+c:\users\cave johnson\source\repos\RPS\RPS\bin\Debug\RPS.exe
+c:\users\cave johnson\source\repos\RPS\RPS\bin\Debug\RPS.pdb
+c:\users\cave johnson\source\repos\RPS\RPS\obj\Debug\RPS.csprojResolveAssemblyReference.cache
+c:\users\cave johnson\source\repos\RPS\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
+c:\users\cave johnson\source\repos\RPS\RPS\obj\Debug\RPS.exe
+c:\users\cave johnson\source\repos\RPS\RPS\obj\Debug\RPS.pdb

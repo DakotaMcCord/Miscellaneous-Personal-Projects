@@ -1,0 +1,12 @@
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\bin\Debug\Percent-Modifier.exe.config
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\bin\Debug\Percent-Modifier.exe
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\bin\Debug\Percent-Modifier.pdb
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\obj\Debug\Percent-Modifier.csprojAssemblyReference.cache
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\obj\Debug\Percent_Modifier.Form1.resources
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\obj\Debug\Percent_Modifier.Properties.Resources.resources
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\obj\Debug\Percent-Modifier.csproj.GenerateResource.cache
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\obj\Debug\Percent-Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\obj\Debug\Percent-Modifier.exe
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\obj\Debug\Percent-Modifier.pdb
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\obj\Debug\Percent_Modifier.Form2.resources
+C:\Users\Cave Johnson\Desktop\VProj\Percent-Modifier\Percent-Modifier\bin\Debug\Settings.xml

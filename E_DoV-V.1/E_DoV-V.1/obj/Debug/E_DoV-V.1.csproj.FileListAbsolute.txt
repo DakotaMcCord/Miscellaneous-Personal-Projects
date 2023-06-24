@@ -1,0 +1,30 @@
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\bin\Debug\Assets\Sprites\Q.png
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\bin\Debug\E_DoV-V.1.exe.config
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\bin\Debug\E_DoV-V.1.exe
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\bin\Debug\E_DoV-V.1.pdb
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV_V._1.ExamineAndTakeView.resources
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV_V._1.GameWindow.resources
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV_V._1.Properties.Resources.resources
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV-V.1.csproj.GenerateResource.cache
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV-V.1.csproj.CoreCompileInputs.cache
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV-V.1.exe
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV-V.1.pdb
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV-V.1.csprojAssemblyReference.cache
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV_V._1.PlayerInventoryView.resources
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\bin\Debug\Assets\Sprites\Blyth.png
+C:\Users\Cave Johnson\Desktop\VProj\E_DoV-V.1\E_DoV-V.1\bin\Debug\Assets\Sprites\Dead_Ghost.png
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\bin\Debug\Assets\Sprites\Blyth.png
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\bin\Debug\Assets\Sprites\Dead_Ghost.png
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\bin\Debug\Assets\Sprites\Q.png
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\bin\Debug\E_DoV-V.1.exe.config
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\bin\Debug\E_DoV-V.1.exe
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\bin\Debug\E_DoV-V.1.pdb
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV-V.1.csprojAssemblyReference.cache
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV_V._1.ExamineAndTakeView.resources
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV_V._1.GameWindow.resources
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV_V._1.Properties.Resources.resources
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV_V._1.PlayerInventoryView.resources
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV-V.1.csproj.GenerateResource.cache
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV-V.1.csproj.CoreCompileInputs.cache
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV-V.1.exe
+C:\Users\Willow\Desktop\VProj\VProj\Regular\E_DoV-V.1\E_DoV-V.1\obj\Debug\E_DoV-V.1.pdb

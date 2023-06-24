@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A9D1C3B-F4AC-444E-AF13-63291BBD3FB7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>E_DoV_V._1</RootNamespace>
+    <AssemblyName>E_DoV-V.1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Engine\Logic\AI.cs" />
+    <Compile Include="Engine\Logic\Abillity.cs" />
+    <Compile Include="Engine\Logic\CombatHandeler.cs" />
+    <Compile Include="Engine\Objects and Entities\Entities\Creatures\Blyth.cs" />
+    <Compile Include="Engine\Objects and Entities\Entities\Creatures\Creature.cs" />
+    <Compile Include="Engine\Objects and Entities\Entities\Characters\Character.cs" />
+    <Compile Include="Engine\Objects and Entities\BaseOE.cs" />
+    <Compile Include="Engine\Logic\GameData.cs" />
+    <Compile Include="Engine\Scene Data\Scene.cs" />
+    <Compile Include="Engine\Objects and Entities\Entities\Entity.cs" />
+    <Compile Include="Engine\Objects and Entities\Entities\Characters\Player.cs" />
+    <Compile Include="Engine\Objects and Entities\Objects\Object.cs" />
+    <Compile Include="Engine\Logic\RNG.cs" />
+    <Compile Include="UI\PlayerInventoryView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\PlayerInventoryView.Designer.cs">
+      <DependentUpon>PlayerInventoryView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ExamineAndTakeView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ExamineAndTakeView.Designer.cs">
+      <DependentUpon>ExamineAndTakeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Engine\Objects and Entities\Objects\InventoryItem.cs" />
+    <Compile Include="UI\GameWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\GameWindow.Designer.cs">
+      <DependentUpon>GameWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Base Data\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="UI\ExamineAndTakeView.resx">
+      <DependentUpon>ExamineAndTakeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\GameWindow.resx">
+      <DependentUpon>GameWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\PlayerInventoryView.resx">
+      <DependentUpon>PlayerInventoryView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Base Data\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\Sprites\Blyth.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Sprites\Dead_Ghost.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Sprites\Q.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,10 @@
+C:\Users\Cave Johnson\Desktop\VProj\Rainbows!(Form)\Rainbows!(Form)\bin\Debug\Rainbows!(Form).exe.config
+C:\Users\Cave Johnson\Desktop\VProj\Rainbows!(Form)\Rainbows!(Form)\bin\Debug\Rainbows!(Form).exe
+C:\Users\Cave Johnson\Desktop\VProj\Rainbows!(Form)\Rainbows!(Form)\bin\Debug\Rainbows!(Form).pdb
+C:\Users\Cave Johnson\Desktop\VProj\Rainbows!(Form)\Rainbows!(Form)\obj\Debug\Rainbows!(Form).csprojAssemblyReference.cache
+C:\Users\Cave Johnson\Desktop\VProj\Rainbows!(Form)\Rainbows!(Form)\obj\Debug\Rainbows__Form_.Form1.resources
+C:\Users\Cave Johnson\Desktop\VProj\Rainbows!(Form)\Rainbows!(Form)\obj\Debug\Rainbows__Form_.Properties.Resources.resources
+C:\Users\Cave Johnson\Desktop\VProj\Rainbows!(Form)\Rainbows!(Form)\obj\Debug\Rainbows!(Form).csproj.GenerateResource.cache
+C:\Users\Cave Johnson\Desktop\VProj\Rainbows!(Form)\Rainbows!(Form)\obj\Debug\Rainbows!(Form).csproj.CoreCompileInputs.cache
+C:\Users\Cave Johnson\Desktop\VProj\Rainbows!(Form)\Rainbows!(Form)\obj\Debug\Rainbows!(Form).exe
+C:\Users\Cave Johnson\Desktop\VProj\Rainbows!(Form)\Rainbows!(Form)\obj\Debug\Rainbows!(Form).pdb

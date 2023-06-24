@@ -1,0 +1,30 @@
+C:\Users\dakota.mccord\source\repos\FileIO Test 002\FileIO Test 002\bin\Debug\FileIO Test 002.exe.config
+C:\Users\dakota.mccord\source\repos\FileIO Test 002\FileIO Test 002\bin\Debug\FileIO Test 002.exe
+C:\Users\dakota.mccord\source\repos\FileIO Test 002\FileIO Test 002\bin\Debug\FileIO Test 002.pdb
+C:\Users\dakota.mccord\source\repos\FileIO Test 002\FileIO Test 002\obj\Debug\FileIO Test 002.csprojAssemblyReference.cache
+C:\Users\dakota.mccord\source\repos\FileIO Test 002\FileIO Test 002\obj\Debug\FileIO_Test_002.Form1.resources
+C:\Users\dakota.mccord\source\repos\FileIO Test 002\FileIO Test 002\obj\Debug\FileIO_Test_002.Properties.Resources.resources
+C:\Users\dakota.mccord\source\repos\FileIO Test 002\FileIO Test 002\obj\Debug\FileIO Test 002.csproj.GenerateResource.cache
+C:\Users\dakota.mccord\source\repos\FileIO Test 002\FileIO Test 002\obj\Debug\FileIO Test 002.csproj.CoreCompileInputs.cache
+C:\Users\dakota.mccord\source\repos\FileIO Test 002\FileIO Test 002\obj\Debug\FileIO Test 002.exe
+C:\Users\dakota.mccord\source\repos\FileIO Test 002\FileIO Test 002\obj\Debug\FileIO Test 002.pdb
+E:\Project Temps\CodeConverter\FileIO Test 002\bin\Debug\FileIO Test 002.exe.config
+E:\Project Temps\CodeConverter\FileIO Test 002\bin\Debug\FileIO Test 002.exe
+E:\Project Temps\CodeConverter\FileIO Test 002\bin\Debug\FileIO Test 002.pdb
+E:\Project Temps\CodeConverter\FileIO Test 002\obj\Debug\FileIO Test 002.csprojAssemblyReference.cache
+E:\Project Temps\CodeConverter\FileIO Test 002\obj\Debug\FileIO_Test_002.Form1.resources
+E:\Project Temps\CodeConverter\FileIO Test 002\obj\Debug\FileIO_Test_002.Properties.Resources.resources
+E:\Project Temps\CodeConverter\FileIO Test 002\obj\Debug\FileIO Test 002.csproj.GenerateResource.cache
+E:\Project Temps\CodeConverter\FileIO Test 002\obj\Debug\FileIO Test 002.csproj.CoreCompileInputs.cache
+E:\Project Temps\CodeConverter\FileIO Test 002\obj\Debug\FileIO Test 002.exe
+E:\Project Temps\CodeConverter\FileIO Test 002\obj\Debug\FileIO Test 002.pdb
+C:\Users\Cave Johnson\Desktop\VProj\CodeConverter\FileIO Test 002\bin\Debug\FileIO Test 002.exe.config
+C:\Users\Cave Johnson\Desktop\VProj\CodeConverter\FileIO Test 002\bin\Debug\FileIO Test 002.exe
+C:\Users\Cave Johnson\Desktop\VProj\CodeConverter\FileIO Test 002\bin\Debug\FileIO Test 002.pdb
+C:\Users\Cave Johnson\Desktop\VProj\CodeConverter\FileIO Test 002\obj\Debug\FileIO Test 002.csprojAssemblyReference.cache
+C:\Users\Cave Johnson\Desktop\VProj\CodeConverter\FileIO Test 002\obj\Debug\FileIO_Test_002.Form1.resources
+C:\Users\Cave Johnson\Desktop\VProj\CodeConverter\FileIO Test 002\obj\Debug\FileIO_Test_002.Properties.Resources.resources
+C:\Users\Cave Johnson\Desktop\VProj\CodeConverter\FileIO Test 002\obj\Debug\FileIO Test 002.csproj.GenerateResource.cache
+C:\Users\Cave Johnson\Desktop\VProj\CodeConverter\FileIO Test 002\obj\Debug\FileIO Test 002.csproj.CoreCompileInputs.cache
+C:\Users\Cave Johnson\Desktop\VProj\CodeConverter\FileIO Test 002\obj\Debug\FileIO Test 002.exe
+C:\Users\Cave Johnson\Desktop\VProj\CodeConverter\FileIO Test 002\obj\Debug\FileIO Test 002.pdb

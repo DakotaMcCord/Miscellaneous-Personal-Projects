@@ -1,0 +1,14 @@
+C:\Users\Cave Johnson\source\repos\Rainbows\Rainbows\bin\Debug\Rainbows.exe.config
+C:\Users\Cave Johnson\source\repos\Rainbows\Rainbows\bin\Debug\Rainbows.exe
+C:\Users\Cave Johnson\source\repos\Rainbows\Rainbows\bin\Debug\Rainbows.pdb
+C:\Users\Cave Johnson\source\repos\Rainbows\Rainbows\obj\Debug\Rainbows.csprojAssemblyReference.cache
+C:\Users\Cave Johnson\source\repos\Rainbows\Rainbows\obj\Debug\Rainbows.csproj.CoreCompileInputs.cache
+C:\Users\Cave Johnson\source\repos\Rainbows\Rainbows\obj\Debug\Rainbows.exe
+C:\Users\Cave Johnson\source\repos\Rainbows\Rainbows\obj\Debug\Rainbows.pdb
+C:\Users\Willow\Desktop\VProj\Regular\Rainbows\Rainbows\bin\Debug\Rainbows.exe.config
+C:\Users\Willow\Desktop\VProj\Regular\Rainbows\Rainbows\bin\Debug\Rainbows.exe
+C:\Users\Willow\Desktop\VProj\Regular\Rainbows\Rainbows\bin\Debug\Rainbows.pdb
+C:\Users\Willow\Desktop\VProj\Regular\Rainbows\Rainbows\obj\Debug\Rainbows.csproj.AssemblyReference.cache
+C:\Users\Willow\Desktop\VProj\Regular\Rainbows\Rainbows\obj\Debug\Rainbows.csproj.CoreCompileInputs.cache
+C:\Users\Willow\Desktop\VProj\Regular\Rainbows\Rainbows\obj\Debug\Rainbows.exe
+C:\Users\Willow\Desktop\VProj\Regular\Rainbows\Rainbows\obj\Debug\Rainbows.pdb
